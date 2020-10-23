@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Lesson2WorkSheet1
 {
-    class Program
+    class Circle
     {
-        static void Main(string[] args)
-        {
-        }
+        public double Radius { get; set; }
+
+
     }
 }
