@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson2WorkSheet1
+namespace WorkSheet1
 {
-    class Circle
+    class Program
     {
-        public double Radius { get; set; }
-
-
+        static void Main(string[] args)
+        {
+            //Lesson2
+        }
     }
 }
